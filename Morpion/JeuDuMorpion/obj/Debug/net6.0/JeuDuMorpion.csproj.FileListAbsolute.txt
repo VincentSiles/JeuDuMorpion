@@ -1,0 +1,15 @@
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\bin\Debug\net6.0\JeuDuMorpion.exe
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\bin\Debug\net6.0\JeuDuMorpion.deps.json
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\bin\Debug\net6.0\JeuDuMorpion.runtimeconfig.json
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\bin\Debug\net6.0\JeuDuMorpion.dll
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\bin\Debug\net6.0\JeuDuMorpion.pdb
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.csproj.AssemblyReference.cache
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.AssemblyInfoInputs.cache
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.AssemblyInfo.cs
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.csproj.CoreCompileInputs.cache
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.dll
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\refint\JeuDuMorpion.dll
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.pdb
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\JeuDuMorpion.genruntimeconfig.cache
+C:\Users\Vincentimes\Desktop\Projet\DEV\Jeux\Morpion\JeuDuMorpion\obj\Debug\net6.0\ref\JeuDuMorpion.dll
